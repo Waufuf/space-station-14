@@ -13,7 +13,7 @@
     - 0,0,3,1
   - type: Item
     size: Large
-    sprite: Andromeda/Waufuf/firstaidkits.rsi
+    sprite: Andromeda/Waufuf/firstaidkits.rsi #A-13
     heldPrefix: firstaid
   - type: Tag
     tags:
