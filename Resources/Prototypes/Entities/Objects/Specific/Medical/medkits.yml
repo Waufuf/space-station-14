@@ -5,7 +5,7 @@
   id: Medkit
   components:
   - type: Sprite
-    sprite: Andromeda/Waufuf/firstaidkits.rsi
+    sprite: Andromeda/Waufuf/firstaidkits.rsi #А-13
     state: firstaid
   - type: Storage
     maxItemSize: Small
